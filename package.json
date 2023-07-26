@@ -10,8 +10,8 @@
     "version-packages": "changeset version",
     "release": "turbo run build --filter=!docs && changeset publish"
   },
-  "devDependencies": { 
+  "devDependencies": {
     "@changesets/cli": "^2.26.2",
-    "turbo": "^1.5.5"
+    "turbo": "^1.10.12"
   }
 }
